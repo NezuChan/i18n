@@ -53,6 +53,6 @@
     "@sapphire/pieces": "^3.3.4",
     "@sapphire/result": "^2.0.1",
     "@skyra/i18next-backend": "^1.0.1",
-    "i18next": "^21.8.13"
+    "i18next": "^21.8.14"
   }
 }
