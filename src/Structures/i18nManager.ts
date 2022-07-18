@@ -1,4 +1,4 @@
-import Collection from "@discordjs/collection";
+import { Collection } from "@discordjs/collection";
 import { Backend, PathResolvable } from "@skyra/i18next-backend";
 import { opendir } from "node:fs/promises";
 import i18next, { InitOptions, TFunction } from "i18next";
