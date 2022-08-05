@@ -50,8 +50,8 @@
   },
   "dependencies": {
     "@discordjs/collection": "^1.0.1",
-    "@sapphire/pieces": "^3.3.5",
-    "@sapphire/result": "^2.1.1",
+    "@sapphire/pieces": "^3.4.1",
+    "@sapphire/result": "^2.3.0",
     "@skyra/i18next-backend": "^1.0.2",
     "i18next": "^21.8.16"
   }
