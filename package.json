@@ -51,7 +51,7 @@
   "dependencies": {
     "@discordjs/collection": "^1.1.0",
     "@sapphire/pieces": "^3.5.1",
-    "@sapphire/result": "^2.4.1",
+    "@sapphire/result": "^2.5.0",
     "@skyra/i18next-backend": "^1.0.2",
     "i18next": "^21.9.2"
   }
