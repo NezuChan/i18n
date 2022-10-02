@@ -52,7 +52,7 @@
     "@discordjs/collection": "^1.1.0",
     "@sapphire/pieces": "^3.5.2",
     "@sapphire/result": "^2.5.0",
-    "@skyra/i18next-backend": "^1.0.2",
+    "@skyra/i18next-backend": "^1.1.0",
     "i18next": "^21.9.2"
   }
 }
