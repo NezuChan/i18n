@@ -1,1 +1,1 @@
-export * from "./Structures/i18nManager";
+export const main = (): string => "Hello, world! ";
