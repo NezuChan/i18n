@@ -8,7 +8,7 @@ export class i18nManager {
 
     public constructor(options: ManagerOptions) {
         this.options = options;
-        this.stores = options.stores ?? container.stores;
+        this.stores = options.stores ??= container.stores;
 
         this.stores.register(new LanguageStore());
         this.stores.registerPath(this.options.baseDirectory);
