@@ -1,5 +1,5 @@
 {
-  "name": "@nezuchan/core",
+  "name": "@nezuchan/i18n",
   "version": "2.0.0-alpha-1",
   "description": "A i18n Language manager, Supports for ts files with typings.",
   "main": "dist/index.js",
