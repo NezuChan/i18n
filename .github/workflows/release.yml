@@ -1,8 +1,0 @@
-on:
-  release:
-    types:
-      - published
-jobs:
-  release:
-    uses: nezuchan/workflows/.github/workflows/npm-release.yml@main
-    secrets: inherit
