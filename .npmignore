@@ -1,6 +1,0 @@
-src
-tsup.config.ts
-.github
-.gitignore
-.gitattributes
-tsconfig.json
