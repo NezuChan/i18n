@@ -10,6 +10,8 @@
         "allowSyntheticDefaultImports": true,
         "experimentalDecorators": true,
         "emitDecoratorMetadata": true,
+        "declaration": true,
+        "declarationMap": true,
         "skipLibCheck": false,
         "noEmitHelpers": true,
         "importHelpers": true,

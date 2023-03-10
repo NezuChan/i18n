@@ -6,16 +6,16 @@
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
   "exports": {
-  ".": {
+    ".": {
       "import": "./dist/index.mjs",
       "require": "./dist/index.js"
-      }
+    }
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "eslint src --ext ts",
     "lint:fix": "eslint src --fix --ext ts",
-    "build": "swc src -d dist"
+    "build": "swc src -d dist && tsc --emitDeclarationOnly"
   },
   "type": "module",
   "author": "KagChi",
@@ -45,5 +45,9 @@
       "@hazmi35/eslint-config/typescript"
     ],
     "rules": {}
+  },
+  "dependencies": {
+    "@sapphire/pieces": "^3.6.0",
+    "@sapphire/utilities": "^3.11.0"
   }
 }
