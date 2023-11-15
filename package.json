@@ -49,6 +49,6 @@
     }
   },
   "dependencies": {
-    "@sapphire/pieces": "^3.7.1"
+    "@sapphire/pieces": "^3.9.0"
   }
 }
