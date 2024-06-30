@@ -6,8 +6,8 @@ settings:
 
 dependencies:
   '@sapphire/pieces':
-    specifier: ^4.2.2
-    version: 4.2.2
+    specifier: ^4.3.0
+    version: 4.3.0
 
 devDependencies:
   '@hazmi35/eslint-config':
@@ -184,17 +184,17 @@ packages:
     dev: true
     optional: true
 
-  /@sapphire/pieces@4.2.2:
-    resolution: {integrity: sha512-DvAC+zTgm5o41D6iX+jBjMp+rRmoHPKNYnav6v6vQLTxBJb+iFMmup9ZREiuXdrh1ejrmVRZojnnI59xQgezwQ==}
+  /@sapphire/pieces@4.3.0:
+    resolution: {integrity: sha512-cjxMRN9Lvgd2c/RLKj4I1qWvj9lRDQIHYplMlmqgiL+tFetv8j5Y7D/xNXcX0xVenU93O1L6plYf7DmWMt/M4w==}
     engines: {node: '>=v14.0.0', npm: '>=7.0.0'}
     dependencies:
       '@discordjs/collection': 1.5.3
-      '@sapphire/utilities': 3.15.3
-      tslib: 2.6.2
+      '@sapphire/utilities': 3.16.2
+      tslib: 2.6.3
     dev: false
 
-  /@sapphire/utilities@3.15.3:
-    resolution: {integrity: sha512-K5dFGOB5XvblXFN+Av+Tch/dVBAifmxtZ9/2mFo8VqzbiaFJIRUuoPAoNsp8pWYaU423yV8bfD8WsCSNd9w1YQ==}
+  /@sapphire/utilities@3.16.2:
+    resolution: {integrity: sha512-0gRyXPH0hbmfZXwgvCH1z9H/kQwOlLeui86zKafZENpdjmuZznSkDFHRSUksr8Y5W/BxkqnR2WbNEfululh20Q==}
     engines: {node: '>=v14.0.0'}
     dev: false
 
@@ -1780,8 +1780,8 @@ packages:
       typescript: 5.5.2
     dev: true
 
-  /tslib@2.6.2:
-    resolution: {integrity: sha512-AEYxH93jGFPn/a2iVAwW87VuUIkR1FVUKB77NwMF7nBTDkDrrT/Hpt/IrCJ0QXhW27jTBDcf5ZY7w6RiqTMw2Q==}
+  /tslib@2.6.3:
+    resolution: {integrity: sha512-xNvxJEOUiWPGhUuUdQgAJPKOOJfGnIyKySOc09XkKsgdUV/3E2zvwZYdejjmRgPCgcym1juLH3226yA7sEFJKQ==}
     dev: false
 
   /type-check@0.4.0:
