@@ -6,8 +6,8 @@ settings:
 
 dependencies:
   '@sapphire/pieces':
-    specifier: ^4.3.0
-    version: 4.3.0
+    specifier: ^4.3.1
+    version: 4.3.1
 
 devDependencies:
   '@hazmi35/eslint-config':
@@ -184,8 +184,8 @@ packages:
     dev: true
     optional: true
 
-  /@sapphire/pieces@4.3.0:
-    resolution: {integrity: sha512-cjxMRN9Lvgd2c/RLKj4I1qWvj9lRDQIHYplMlmqgiL+tFetv8j5Y7D/xNXcX0xVenU93O1L6plYf7DmWMt/M4w==}
+  /@sapphire/pieces@4.3.1:
+    resolution: {integrity: sha512-t42o6i8gPQ3QISIsMl463hj057yfyHsaSrs4FssdiGLmnvL9cuLGLTsjGEPn904wHUhPzS8W5aAPr788RK2/jQ==}
     engines: {node: '>=v14.0.0', npm: '>=7.0.0'}
     dependencies:
       '@discordjs/collection': 1.5.3
